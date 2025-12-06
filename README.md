@@ -10,15 +10,11 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 
-- 👯 I’m looking forward to collaborate on open source projects.
+-🛡️ I’m looking forward to collaborate on open source cybersecurity and ethical hacking projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/)**
+-💻 You can access all of my security tools, scripts, and open-source projects here on GitHub
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
-
-- ⚡ Coding fact: "There are over 700 different programming languages".
-
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+-💬 Ask me about cybersecurity, networking, Linux, Python scripting, and ethical hacking ! 
 
 <br>
 
